@@ -1,0 +1,79 @@
+Create a list of 10 numbers and find the sum using built-in functions.
+
+Given a list of numbers, find the maximum and minimum values.
+
+Create a tuple of 5 elements and find its length.
+
+Reverse a list using slicing (no loop).
+
+Count how many times a specific value appears in a list using built-in methods.
+
+Convert a list with duplicate values into a set and display unique elements.
+
+Create two sets and find their union.
+
+Create two sets and find their intersection.
+
+Create two sets and find their difference.
+
+Given a list of numbers, sort it in ascending and descending order.
+
+Create a dictionary of 5 students with their marks and find the total marks.
+
+From a dictionary, extract only the keys into a list.
+
+From a dictionary, extract only the values into a list.
+
+Merge two dictionaries into a single dictionary.
+
+Create a list of numbers and remove all duplicate values without using loops.
+
+Given a tuple of numbers, convert it into a list and add new elements.
+
+Create a list and find the second largest number using sorting.
+
+Given a list of words, create a set to find unique words.
+
+Create a dictionary and calculate the average of all values.
+
+Given two lists, convert them into sets and find common elements.
+
+Write a program to convert bytes into kilobytes.
+
+Write a program to convert kilobytes into megabytes.
+
+Write a program to convert grams into kilograms.
+
+Write a program to convert kilograms into grams.
+
+Write a program to calculate simple interest using principal, rate, and time.
+
+Write a program to calculate total amount after simple interest.
+
+Write a program to calculate the area of a triangle using base and height.
+
+Write a program to calculate the area of a rectangle using length and breadth.
+
+Write a program to calculate the perimeter of a rectangle.
+
+Write a program to calculate the area of a circle using radius.
+
+Write a program to convert Celsius temperature into Fahrenheit.
+
+Write a program to convert Fahrenheit temperature into Celsius.
+
+Write a program to calculate the average of marks.
+
+Write a program to convert seconds into minutes.
+
+Write a program to convert minutes into hours.
+
+Write a program to calculate the total price of items.
+
+Write a program to calculate discount amount using price and discount rate.
+
+Write a program to calculate the square and cube of a number.
+
+Write a program to calculate speed using distance and time.
+
+Write a program to convert meters into kilometers.
