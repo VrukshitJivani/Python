@@ -8,11 +8,11 @@ for score in scoreboard:
         tot_run=tot_run+score
         count+=1
     except ValueError:
-        print("values error")
+        print("In list values is not valide")
 print(tot_run)
 try:
     average=tot_run/count
 except ZeroDivisionError:
-    print("You cant not divide by zero")
+    print("All value are invalide ,so average is not generate ")
 else:
-    print(f"average is {average}")
+    print(f"Average is {average}")
